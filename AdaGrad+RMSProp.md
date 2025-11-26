@@ -1,4 +1,4 @@
-# Week-8-Lecture
+# 용어 해
 Week-8-Lecture
 
 ### 딥러닝을 위한 최적화 혁명은 어떻게 가능했을까?
